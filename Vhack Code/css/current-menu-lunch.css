@@ -1,0 +1,239 @@
+/* screen - current-menu-lunch */
+
+.current-menu-lunch {
+  background-image: url(../img/current-menu---lunch.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  height: 758px;
+  overflow: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.current-menu-lunch .overlap-group7 {
+  height: 773px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 359px;
+}
+
+.current-menu-lunch .rectangle-58 {
+  background-color: var(--eagle-2);
+  height: 773px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.current-menu-lunch .title {
+  height: 55px;
+  left: 49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 37px;
+  width: 310px;
+}
+
+.current-menu-lunch .icon-home {
+  cursor: pointer;
+  height: 33px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 49px;
+  width: 33px;
+}
+
+.current-menu-lunch .image-80 {
+  height: 46px;
+  left: 33px;
+  top: 6px;
+  width: 46px;
+}
+
+.current-menu-lunch .overlap-group5 {
+  background-color: var(--eagle);
+  border-radius: 20px;
+  height: 258px;
+  left: 45px;
+  position: absolute;
+  top: 147px;
+  width: 318px;
+}
+
+.current-menu-lunch .homecooked-dish-a1 {
+  top: 219px;
+  width: 249px;
+}
+
+.current-menu-lunch .overlap-group3 {
+  height: 207px;
+  left: 16px;
+  position: absolute;
+  top: 13px;
+  width: 288px;
+}
+
+.current-menu-lunch .image-45 {
+  cursor: pointer;
+  height: 207px;
+  left: 0;
+  top: 0;
+  width: 288px;
+}
+
+.current-menu-lunch .leethechef {
+  -webkit-text-stroke: 1px var(--black);
+  left: 87px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+  width: 138px;
+}
+
+.current-menu-lunch .overlap-group6 {
+  background-color: var(--eagle);
+  border-radius: 20px;
+  height: 258px;
+  left: 45px;
+  position: absolute;
+  top: 415px;
+  width: 318px;
+}
+
+.current-menu-lunch .image-45-1 {
+  height: 207px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 287px;
+}
+
+.current-menu-lunch .masakanlina {
+  -webkit-text-stroke: 1px var(--black);
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 95px;
+  width: 188px;
+}
+
+.current-menu-lunch .homecooked-dish-a2 {
+  top: 218px;
+  width: 292px;
+}
+
+.current-menu-lunch .group-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+  height: 33px;
+  left: 61px;
+  min-width: 290px;
+  position: absolute;
+  top: 103px;
+}
+
+.current-menu-lunch .overlap-group {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--verdun-green);
+  border-radius: 10px;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  min-width: 122px;
+  padding: 1px;
+}
+
+.current-menu-lunch .breakfast {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 26px;
+  width: 106px;
+}
+
+.current-menu-lunch .overlap-group2 {
+  align-items: center;
+  background-color: var(--pistachio);
+  border-radius: 10px;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  min-width: 77px;
+  padding: 0 6px;
+}
+
+.current-menu-lunch .lunch {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 26px;
+  width: 57px;
+}
+
+.current-menu-lunch .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--verdun-green);
+  border-radius: 10px;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  min-width: 77px;
+  padding: 2px 1px;
+}
+
+.current-menu-lunch .dinner {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 26px;
+  width: 67px;
+}
+
+.current-menu-lunch .component-4 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 41px;
+  left: 111px;
+  min-width: 203px;
+  position: fixed;
+  top: 702px;
+}
+
+.current-menu-lunch .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--verdun-green);
+  border-radius: 40px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 42px;
+  justify-content: flex-end;
+  margin-bottom: -0.77px;
+  min-width: 203px;
+  padding: 4px 15px;
+}
+
+.current-menu-lunch .homecooked-dish {
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+}
+
+.current-menu-lunch .image {
+  object-fit: cover;
+  position: absolute;
+}

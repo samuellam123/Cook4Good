@@ -1,0 +1,455 @@
+/* screen - homepage */
+
+.homepage {
+  background-image: url(../img/homepage.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  height: 913px;
+  overflow: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.homepage .overlap-group7 {
+  height: 913px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 381px;
+}
+
+.homepage .rectangle-58 {
+  background-color: var(--eagle-2);
+  height: 913px;
+  top: 0;
+  width: 35px;
+}
+
+.homepage .welcome-back {
+  height: 50px;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  width: 353px;
+}
+
+.homepage .icon-home {
+  height: 33px;
+  left: 2px;
+  top: 38px;
+  width: 33px;
+}
+
+.homepage .group-63 {
+  cursor: pointer;
+  height: 55px;
+  left: 46px;
+  min-width: 320px;
+  top: 571px;
+}
+
+.homepage .overlap-group {
+  background-color: var(--eagle);
+  border-radius: 20px;
+  height: 55px;
+  position: relative;
+  width: 318px;
+}
+
+.homepage .current-menu {
+  left: 21px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 12px;
+  width: 272px;
+}
+
+.homepage .image-80 {
+  height: 46px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 46px;
+}
+
+.homepage .group-64 {
+  height: 57px;
+  left: 46px;
+  min-width: 320px;
+  top: 641px;
+}
+
+.homepage .overlap-group1 {
+  height: 57px;
+  position: relative;
+  width: 318px;
+}
+
+.homepage .rectangle-62 {
+  background-color: var(--eagle);
+  border-radius: 20px;
+  cursor: pointer;
+  height: 55px;
+  top: 1px;
+  width: 318px;
+}
+
+.homepage .my-grocery-list {
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 13px;
+  width: 272px;
+}
+
+.homepage .image-81 {
+  height: 57px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.homepage .group-65 {
+  height: 167px;
+  left: 45px;
+  min-width: 322px;
+  top: 713px;
+}
+
+.homepage .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--eagle);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 167px;
+  padding: 11px 17px;
+  width: 318px;
+}
+
+.homepage .suggested-calorie-intake {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 26px;
+  text-align: center;
+  width: 272px;
+}
+
+.homepage .overlap-group-1 {
+  border-radius: 30px;
+  height: 101px;
+  position: relative;
+  width: 280px;
+}
+
+.homepage .rectangle-64 {
+  background-color: var(--verdun-green);
+  border: 3px solid;
+  border-color: var(--black);
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 101px;
+  top: 0;
+  width: 280px;
+}
+
+.homepage .unlock-premium {
+  color: var(--white);
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  width: 177px;
+}
+
+.homepage .icon-lock {
+  height: 49px;
+  left: 23px;
+  top: 25px;
+  width: 49px;
+}
+
+.homepage .group-61 {
+  flex-direction: column;
+  gap: 8px;
+  left: 49px;
+  min-height: 199px;
+  top: 96px;
+  width: 318px;
+}
+
+.homepage .current-budget {
+  min-height: 30px;
+}
+
+.homepage .overlap-group5 {
+  align-items: center;
+  background-color: var(--pistachio);
+  border-radius: 20px;
+  display: flex;
+  gap: 24px;
+  height: 93px;
+  justify-content: flex-end;
+  min-width: 310px;
+  padding: 14px 22px;
+}
+
+.homepage .image-34 {
+  height: 47px;
+  mix-blend-mode: darken;
+  object-fit: cover;
+  width: 47px;
+}
+
+.homepage .price {
+  align-self: flex-end;
+  color: var(--white);
+  font-family: var(--font-family-outfit);
+  font-size: 50px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 64px;
+  text-shadow: 0px 4px 4px #00000040;
+  width: 187px;
+}
+
+.homepage .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  min-width: 310px;
+}
+
+.homepage .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--pistachio);
+  border-radius: 20px;
+  display: flex;
+  gap: 5px;
+  height: 60px;
+  justify-content: flex-end;
+  min-width: 167px;
+  padding: 8px 10px;
+}
+
+.homepage .image-33 {
+  height: 36px;
+  object-fit: cover;
+  width: 36px;
+}
+
+.homepage .address {
+  min-height: 38px;
+  width: 104px;
+}
+
+.homepage .overlap-group3 {
+  align-items: center;
+  background-color: var(--pistachio);
+  border-radius: 20px;
+  display: flex;
+  gap: 6px;
+  height: 60px;
+  min-width: 135px;
+  padding: 6px 8px;
+}
+
+.homepage .image-35 {
+  height: 36px;
+  margin-bottom: 2.0px;
+  object-fit: cover;
+  width: 36px;
+}
+
+.homepage .address-1 {
+  align-self: flex-end;
+  min-height: 39px;
+  width: 75px;
+}
+
+.homepage .group-62 {
+  height: 246px;
+  left: 46px;
+  min-width: 328px;
+  top: 311px;
+}
+
+.homepage .overlap-group6 {
+  align-items: center;
+  background-color: var(--eagle);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  min-height: 246px;
+  padding: 11px 0;
+  width: 318px;
+}
+
+.homepage .overlap-group2-1 {
+  height: 87px;
+  margin-left: 6.0px;
+  position: relative;
+  width: 164px;
+}
+
+.homepage .today-is {
+  color: var(--black);
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 145px;
+}
+
+.homepage .surname {
+  color: var(--black);
+  font-family: var(--font-family-outfit);
+  font-size: 50px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 28px;
+  width: 164px;
+}
+
+.homepage .text-15 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5.0px;
+  margin-top: 3px;
+  min-height: 32px;
+  text-align: center;
+  width: 145px;
+}
+
+.homepage .overlap-group1-1 {
+  border-radius: 40px;
+  height: 54px;
+  margin-left: 6.0px;
+  margin-top: 3px;
+  position: relative;
+  width: 302px;
+}
+
+.homepage .rectangle-31 {
+  background-color: var(--verdun-green);
+  border: 3px solid;
+  border-color: var(--black);
+  border-radius: 40px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 54px;
+  top: 0;
+  width: 302px;
+}
+
+.homepage .start-a-new-cycle {
+  left: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.homepage .overlap-group-2 {
+  height: 26px;
+  margin-right: 1.0px;
+  margin-top: 17px;
+  position: relative;
+  width: 317px;
+}
+
+.homepage .rectangle-62-1 {
+  background-color: var(--gray-asparagus);
+  border-radius: 10px;
+  height: 24px;
+  left: 210px;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.homepage .any-changes-update-in-my-profile {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 317px;
+}
+
+.homepage .span0 {
+  color: #000000b5;
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+}
+
+.homepage .span1 {
+  color: var(--white);
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.homepage .address-2 {
+  color: var(--white);
+  font-family: var(--font-family-outfit);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.homepage .current {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.homepage .group {
+  align-items: flex-start;
+  display: flex;
+  position: absolute;
+}
+
+.homepage .icon {
+  object-fit: cover;
+  position: absolute;
+}
+
+.homepage .rectangle {
+  left: 0;
+  position: absolute;
+}

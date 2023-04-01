@@ -1,0 +1,205 @@
+/* screen - current-menu-lunch-details */
+
+.current-menu-lunch-details {
+  align-items: flex-start;
+  background-image: url(../img/current-menu---lunch-details.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  gap: 11px;
+  height: 1446px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.current-menu-lunch-details .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--eagle-2);
+  display: flex;
+  height: 2004px;
+  min-width: 35px;
+  padding: 49px 1px;
+}
+
+.current-menu-lunch-details .icon-home {
+  cursor: pointer;
+  height: 33px;
+  object-fit: cover;
+  width: 33px;
+}
+
+.current-menu-lunch-details .flex-col {
+  flex-direction: column;
+  margin-top: 43px;
+  min-height: 1389px;
+  width: 321px;
+}
+
+.current-menu-lunch-details .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 13.0px;
+  min-height: 38px;
+  width: 292px;
+}
+
+.current-menu-lunch-details .hc-dish-a1 {
+  display: flex;
+  flex-direction: column;
+  height: 431px;
+  margin-top: 1px;
+  width: 321px;
+}
+
+.current-menu-lunch-details .homecooked-dish-a1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2.49%;
+  margin-right: 6.54%;
+  max-height: 38px;
+  text-decoration: underline;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.current-menu-lunch-details .image-43 {
+  height: 315px;
+  margin-top: 9px;
+  object-fit: cover;
+  width: 317px;
+}
+
+.current-menu-lunch-details .calorie-count-600-k {
+  height: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 12px;
+  margin-top: 13px;
+  width: 196px;
+}
+
+.current-menu-lunch-details .dish-1-spicy-tofu {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 5px;
+  min-height: 215px;
+  width: 305px;
+}
+
+.current-menu-lunch-details .dish-2-soy-sauce {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 6.0px;
+  margin-top: 12px;
+  min-height: 230px;
+  width: 311px;
+}
+
+.current-menu-lunch-details .dish-3-stir-fry-v {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 18.0px;
+  margin-top: 12px;
+  min-height: 119px;
+  width: 283px;
+}
+
+.current-menu-lunch-details .credit {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 21px;
+  min-height: 228px;
+  width: 321px;
+}
+
+.current-menu-lunch-details .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/image-57@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 152px;
+  min-width: 317px;
+  padding: 49px 132px;
+}
+
+.current-menu-lunch-details .image-58 {
+  height: 53px;
+  object-fit: cover;
+  width: 53px;
+}
+
+.current-menu-lunch-details .flex-row {
+  gap: 18px;
+  margin-left: 12px;
+  min-width: 240px;
+}
+
+.current-menu-lunch-details .image-56 {
+  height: 66px;
+  width: 66px;
+}
+
+.current-menu-lunch-details .overlap-group {
+  height: 40px;
+  margin-bottom: 6.0px;
+  position: relative;
+  width: 156px;
+}
+
+.current-menu-lunch-details .recipe-by {
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 98px;
+}
+
+.current-menu-lunch-details .leethechef {
+  -webkit-text-stroke: 1px var(--black);
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 156px;
+}
+
+.current-menu-lunch-details .component-4 {
+  align-items: flex-end;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  height: 53px;
+  margin-right: 3.0px;
+  margin-top: 24px;
+  min-width: 246px;
+}
+
+.current-menu-lunch-details .overlap-group2 {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--verdun-green);
+  border-radius: 40px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 54px;
+  margin-bottom: -1px;
+  min-width: 246px;
+  padding: 9px 93px;
+}
+
+.current-menu-lunch-details .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+}
+
+.current-menu-lunch-details .flex {
+  align-items: center;
+  display: flex;
+}
