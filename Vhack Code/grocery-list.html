@@ -27,13 +27,28 @@
           <p class="click-on-the-store outfit-normal-tapa-16px">(Click on the store for the store’s location)</p>
         </div>
         <div class="rectangle-38"></div>
+        <div style="cursor:pointer" id="carrot" onclick="remove()" class="rectangle-39"></div>
         <div class="rectangle-67"></div>
         <div class="rectangle-68"></div>
         <div class="rectangle-69"></div>
         <div class="rectangle-70"></div>
         <div class="rectangle-71"></div>
         <div class="rectangle-72"></div>
-        <img class="image-59 image" src="img/image-59@2x.png" alt="image 59" />
+
+        <script>
+          function remove() {
+            document.getElementById('carrot').style.cssText = "display: None";
+            document.getElementById('carrot1').style.cssText = "display: Inline";
+            document.getElementById('carrot2').style.cssText = "text-decoration: line-through";
+            document.getElementById("carrot3").classList.add('outfit-normal-mischka-15px')
+            document.getElementById("carrot4").classList.add('outfit-normal-mischka-15px')
+            document.getElementById("carrot5").innerHTML = "&nbsp;&nbsp; 65.5"
+          }
+
+        </script>
+        
+        <img id="carrot1" style="display:None" class="image-59 image" src="img/image-59@2x.png" alt="image 59" />-->
+
         <div class="giant-perling-02km outfit-semi-bold-black-24px">
           <span class="span outfit-semi-bold-black-24px">Giant @ Perling</span
           ><span class="outfit-semi-bold-black-24px">&nbsp;</span
@@ -42,8 +57,13 @@
         <div style="cursor:pointer" class="hide-complete-list outfit-normal-tapa-16px">Hide Complete List</div>
         <div class="purple-cabbage-carro outfit-normal-black-15px">
           <span class="outfit-normal-black-15px">Purple cabbage<br /></span
-          ><span class="span1 outfit-normal-black-15px">Carrot<br /></span
-          ><span class="outfit-normal-black-15px"
+          >
+          <span id="carrot2" class="outfit-normal-black-15px">Carrot<br /></span
+            >
+          <!--<span class="span1 outfit-normal-black-15px">Carrot<br /></span
+          > -->
+          
+          <span class="outfit-normal-black-15px"
             >Cucumber<br />Lettuce<br />Tomato<br />Choy Sum<br />Ladyfinger<br />Eggplant</span
           >
         </div>
@@ -54,14 +74,27 @@
         <div class="overlap-group3 outfit-normal-white-15px-2">
           <div class="quantity-x2-x3-x2-x3-400-g-x4-300-g-x2">
             <span class="outfit-normal-black-15px">Quantity<br />x2<br /></span
-            ><span class="outfit-normal-mischka-15px">x3<br /></span
-            ><span class="outfit-normal-black-15px">x2<br />x3<br />400 g<br />x4<br />300 g<br />x2</span>
+            >
+            
+            <!--<span class="outfit-normal-mischka-15px">x3<br /></span>
+            >-->
+            <span id="carrot3" class="outfit-normal-black-15px">x3<br /></span>
+            <span class="outfit-normal-black-15px">x2<br />x3<br />400 g<br />x4<br />300 g<br />x2</span>
           </div>
           <p class="price-900-700-2">
             <span class="outfit-normal-black-15px">Price<br />9.00<br /></span
-            ><span class="outfit-normal-mischka-15px">--<br /></span
-            ><span class="outfit-normal-black-15px"
-              >7.00<br />25.00<br />3.50<br />10.00<br />7.00<br />4.00<br /><br />Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65.50</span
+            >
+            
+            <!--<span class="outfit-normal-mischka-15px">--<br /></span
+            >-->
+
+            <span id="carrot4" class="outfit-normal-black-15px">7.00<br /></span>
+            
+            <span class="outfit-normal-black-15px"
+              >7.00<br />25.00<br />3.50<br />10.00<br />7.00<br />4.00<br /><br />Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span
+            >
+            <span id="carrot5" class="outfit-normal-black-15px"
+              >72.50</span
             >
           </p>
         </div>
