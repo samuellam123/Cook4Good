@@ -1,3 +1,3 @@
 # Cook4Good
 
-A revolution to how you cook.
+A revolution on how you cook.
