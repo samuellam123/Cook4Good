@@ -10,6 +10,7 @@ Cook4Good is a recipe-sharing platform where users can find, save, and share rec
 5. User Profiles: Create a profile to track your contributions and interact with other users.
 
 **Getting Started**
+
 To get started with Cook4Good, follow these steps:
 1. Clone the repository:
 git clone https://github.com/samuellam123/Cook4Good.git
