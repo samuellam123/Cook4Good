@@ -27,7 +27,7 @@ We welcome contributions from the community! If you'd like to contribute to Cook
 * Make your changes and ensure that they adhere to the project's coding style.
 * Test your changes thoroughly.
 * Submit a pull request with a clear description of your changes.
-* 
+
 **Feedback**
 We value your feedback! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub.
 
