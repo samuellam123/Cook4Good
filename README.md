@@ -21,6 +21,7 @@ npm start
 4. Open your browser and navigate to http://localhost:3000 to view the application.
 
 **Contributing**
+
 We welcome contributions from the community! If you'd like to contribute to Cook4Good, please follow these guidelines:
 
 * Fork the repository.
